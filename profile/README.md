@@ -57,9 +57,9 @@ AutoMod regex, anti-raid, verification gates, and spam and scam filters, set up 
 
 Wake a quiet server back up without buying a single member. Structure fixes, engagement programming, and a content rhythm your members actually respond to.
 
-### [Custom Discord Bots](https://danieljeong.org/bots)
+### [Custom Bots, Automations, and AI Integrations](https://danieljeong.org/bots)
 
-Off-the-shelf bots don't fit, so we build ones that do. 16+ custom bots shipped for client servers, from $500.
+Off-the-shelf bots don't fit, so we build ones that do. Visit [danieljeong.org](https://danieljeong.org/bots) to learn which automations, workflows, and AI integrations fit your community best.
 
 ## Who we work with
 
