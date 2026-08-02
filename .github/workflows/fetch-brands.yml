@@ -1,0 +1,20 @@
+name: Fetch brands collage
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and verify collage
+        run: |
+          curl -fL --retry 3 -o profile/brands.png "https://d2ol7oe51mr4n9.cloudfront.net/user_34Tbz0OyrysJXcj7Ec1csSFhZg5/8a5f42a2-3af9-4a02-a3f1-d1a373db0003.png"
+          echo "d76885b623fbccbdc4d775e0e671d5edffe4dc5d8fa9853e639e88a8bd88f170  profile/brands.png" | sha256sum -c
+      - name: Commit image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/brands.png
+          git commit -m "Add 36-brand collage image (row 5: Emy BFF, Atoms, Shred Island)"
+          git push
