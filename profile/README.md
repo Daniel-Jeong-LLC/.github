@@ -4,6 +4,10 @@
 
 Full-service Discord community management for SaaS, AI, Web3, crypto, and eCommerce brands. We build, moderate, and run Discord communities: 155+ companies so far, including BlueWillow (1,000 to 1.7 million members, the 2nd largest server on Discord at the time), Sapien.io, and Google Developer Groups. 18 verified 5-star client reviews. Everything below lives in full detail at [danieljeong.org](https://danieljeong.org).
 
+## Brands we've worked with
+
+![Google Developers, Sapien, WagmiTrades, Moonvalley, and BlueWillow logos](https://raw.githubusercontent.com/danieljeongorg/danieljeongorg/main/brands.png)
+
 ## Services
 
 ### [Discord Community Audit](https://danieljeong.org/discord-community-audit)
