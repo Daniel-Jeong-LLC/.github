@@ -6,7 +6,7 @@ Full-service Discord community management for SaaS, AI, Web3, crypto, and eComme
 
 ## Brands we've worked with
 
-![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, and Parryverse](https://raw.githubusercontent.com/danieljeongorg/danieljeongorg/main/brands.png)
+![Client brands: Google Developers, Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, and No Gimmicks Recs](https://raw.githubusercontent.com/danieljeongorg/danieljeongorg/main/brands.png)
 
 ## Services
 
