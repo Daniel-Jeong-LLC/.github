@@ -4,7 +4,7 @@
 
 Full-service Discord community management for SaaS, AI, Web3, crypto, and eCommerce brands. We build, moderate, and run Discord communities: 155+ companies so far, including BlueWillow (1,000 to 1.7 million members, the 2nd largest server on Discord at the time), Sapien.io, and Google Developer Groups. 18 verified 5-star client reviews. Everything below lives in full detail at [danieljeong.org](https://danieljeong.org).
 
-## Brands we've worked with
+## Brands I worked with
 
 ![Client brands: Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, WE Global Marketing, Emy BFF, Atoms, and Shred Island](https://raw.githubusercontent.com/Daniel-Jeong-LLC/.github/main/profile/brands.png)
 
