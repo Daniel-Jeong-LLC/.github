@@ -6,7 +6,7 @@ Full-service Discord community management for SaaS, AI, Web3, crypto, and eComme
 
 ## Brands we've worked with
 
-![Client brands: Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, WE Global Marketing, Emy BFF, Atoms, and Shred Island](https://raw.githubusercontent.com/Daniel-Jeong-LLC/.github/main/profile/brands.png)
+![Client brands: Sapien, WagmiTrades, Moonvalley, BlueWillow, Live Traders, Pure Daily Care, Parryverse, TMMB, MSK Labs, Enrich Trades, Terez and Honor, Hellava, The Artillery, NerdFocus, Mangrove, Fomo.ai, Gleam, Varsity Gripz, Visual Sectors, DianToz, AppleCore, Vetted, No Gimmicks Recs, Virtus Capital, Junk Bond Investor, Pinkfish, AgentVoice, Commerce Social, Collab Collective, Kaido, Silo Finance, WE Global Marketing, Emy BFF, and Atoms](https://raw.githubusercontent.com/Daniel-Jeong-LLC/.github/main/profile/brands.png)
 
 **The names behind the logos:**
 
@@ -44,7 +44,6 @@ Full-service Discord community management for SaaS, AI, Web3, crypto, and eComme
 - **[Varsity Gripz](https://www.varsitygripz.com)**: licensed gaming controller grips.
 - **[DianToz](https://diantoz.com)**: sci-fi YouTube storytelling universe.
 - **[Kaido](https://gokaido.com/marketplace)**: anime and fandom marketplace.
-- **[Shred Island](https://www.fortnite.com/@code36/0875-5132-5368)**: Fortnite skate and moto park by the code36 team.
 - **[No Gimmicks Recs](https://www.nogimmicksrecs.com)**: independent house music label.
 
 #### eCommerce & Consumer Brands
